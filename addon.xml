@@ -16,7 +16,6 @@
 		<description lang="ru_RU">cssselect анализирует селекторы CSS3 и переводит их в XPath 1.0.</description>
 		<description lang="uk_UA">cssselect аналізує селектори CSS3 і перекладає їх на XPath 1.0.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.cssselect.git</source>
 		<assets>
